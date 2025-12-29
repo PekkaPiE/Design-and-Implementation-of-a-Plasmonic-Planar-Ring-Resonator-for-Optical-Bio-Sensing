@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-a-Plasmonic-Planar-Ring-Resonator-for-Optical-Bio-Sensing
+Through systematic simulation and optimization, the proposed device ex hibits an average parameter value best at 195.7 Thz, demonstrating its strong capability for real-time bio-sensing applications. The sensor’s de sign is modeled and analyzed using the Finite Element Method (FEM) in the COMSOL Multiphysics environment.
